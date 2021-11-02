@@ -1,4 +1,6 @@
-## _FashionStack Ltda_ <img src="https://picfiles.alphacoders.com/484/484186.jpg" align="right" width="200"> 
+## _FashionStack Ltda_ 
+
+[logo](https://picfiles.alphacoders.com/484/484186.jpg") 
 
 ### GreenStock
 
