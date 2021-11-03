@@ -25,10 +25,20 @@ O padão adotado para construção da ferramenta foi baseado em MVC tendo um con
 
 
 
-entrada de gifs e menções sobre o estilo usada 
+ _Pagina Dasboard_
+ 
+<img src="https://raw.githubusercontent.com/FashionStack/DataBase/main/dashboard.gif?token=AQPJBTA56GSTIZZG2QSFMLLBQMI3Y" align="center" width="800"> 
 
+_Pagina Adicionar Produto_
+<img src="https://raw.githubusercontent.com/FashionStack/DataBase/main/adicionarProduto.gif?token=AQPJBTDOD3IT44DCQVU76CTBQMJRY" align="center" width="800"> 
 
-Diagrama do banco 
+_Adicionando e quantidades_
+
+<img src="https://raw.githubusercontent.com/FashionStack/DataBase/main/add%2Cremove.gif?token=AQPJBTB5YIIWYAE3L2HUMBTBQMHY6" align="center" width="800"> 
+
+_Pagina de produtos_
+
+<img src="https://raw.githubusercontent.com/FashionStack/DataBase/main/Produtos.gif?token=AQPJBTGBVKRG33NOCANOJRLBQMIR4" align="center" width="800"> 
 
 
 Documentação do Swagger 
