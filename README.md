@@ -1,7 +1,4 @@
 
-<img src="https://picfiles.alphacoders.com/484/484187.png" align="center" width="250"> 
-
-
 ### Buscando criar ferramentas para otimizar o gerenciamento de estoque da sua empresa e entregando como valor a sustentabilidade, nasceu a GreenStock.
 
 
@@ -27,7 +24,7 @@
 
 _Pagina Adicionar Produto_
 
-src![Produtos](https://user-images.githubusercontent.com/69112012/140243806-9355f6e9-755d-45a4-8b32-86e07ccdfe08.gif)
+![Produtos](https://user-images.githubusercontent.com/69112012/140243806-9355f6e9-755d-45a4-8b32-86e07ccdfe08.gif)
 
 _Pagina de produtos_
 
