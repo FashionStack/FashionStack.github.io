@@ -59,7 +59,7 @@ Documentação do Swagger
  
  **Desenvolvedores** 
 
--    [wallace leonel](https://github.com/wallaceleonel)
+-    [Wallace Leonel](https://github.com/wallaceleonel)
 -    [Ailton Alves](https://github.com/aailton)
 -    [Wallace Leite ](https://github.com/wallacejerry)
 -    [Larissa Sampaio](https://github.com/LarissaSampaio)
