@@ -16,7 +16,7 @@
  O uso da ferramenta fornece para o usuário a possibilidade de visualização de informações, adição, edição e remoção de produtos. Fornecemos a possibilidade do usuário adicionar categorias, e dentro dessas categorias armazenar seus itens, que podem conter características próprias fornecidas pelo usuário. Visando a praticidade na gerência do seu estoque, além de conter gráficos interativos facilitando a visão geral do estoque.
 </p>
 
-## Desenvolvimento Docker
+## _Desenvolvimento Docker_
 
 Nossa APi conta com um desenvolvimento paraleo onde se encontra me container para facil manuseio da aplicação. 
 
@@ -39,7 +39,7 @@ Nossa APi conta com um desenvolvimento paraleo onde se encontra me container par
 
 
 
-Documentação do Swagger 
+## _Documentação do Swagger_ 
 ![swagger](https://user-images.githubusercontent.com/69112012/140248420-45e3eddc-91e5-4dca-be98-8434b16f07aa.gif)
 
 ## 🛠️ Tecnologias 
