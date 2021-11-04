@@ -20,7 +20,7 @@
 
 Nossa APi conta com um desenvolvimento paraleo onde se encontra em um  container docker para facil manuseio da aplicação. 
 
-[Desenvolvimento em da api em Docker](https://github.com/FashionStack/GreenAPI/tree/docker)
+[Desenvolvimento da api em Docker](https://github.com/FashionStack/GreenAPI/tree/docker)
 
  ## _Página Dashboard_
  
