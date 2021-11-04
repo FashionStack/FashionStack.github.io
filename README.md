@@ -1,8 +1,7 @@
+# _GreenStock - Gerenciador de estoque voltado a administração de peças sustentáveis_
 
-<img src="https://picfiles.alphacoders.com/484/484187.png" align="center" width="250"> 
 
-
-### Buscando Criar ferramentas de controle que possam otimizar gerenciamento de sua empresa entregando  uma visão voltada a sustentabilidade, nasceu a GreenStock.
+#### Buscando Criar ferramentas de controle que possam otimizar gerenciamento de sua empresa entregando  uma visão voltada a sustentabilidade, nasceu a GreenStock.
 
 
 <p> 
