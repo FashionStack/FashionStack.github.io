@@ -7,17 +7,20 @@
 </p>
 
 ## 📦 Desenvolvimento
+
 <p>
  A arquitetura do sistema leva uma linguagem simples, visando ter funções pré-estabelecidas e o uso da mesma em várias frentes solicitadas por nosso usuário. O padrão adotado para construção da ferramenta foi baseado em arquitetura MVC (front-end) e API (back-end), o sistema é divido em três partes independentes: banco de dados, API e aplicação WEB.
 </p>
 
 <p>
-
  O uso da ferramenta fornece para o usuário a possibilidade de visualização de informações, adição, edição e remoção de produtos. Fornecemos a possibilidade do usuário adicionar categorias, e dentro dessas categorias armazenar seus itens, que podem conter características próprias fornecidas pelo usuário. Visando a praticidade na gerência do seu estoque, além de conter gráficos interativos facilitando a visão geral do estoque.
-
 </p>
 
+## Desenvolvimento Docker
 
+Nossa APi conta com um desenvolvimento paraleo onde se encontra me container para facil manuseio da aplicação. 
+
+[Desenvolvimento em da api em Docker](https://github.com/FashionStack/GreenAPI/tree/docker)
 
  ## _Página Dashboard_
  
@@ -37,6 +40,7 @@
 
 
 Documentação do Swagger 
+![swagger](https://user-images.githubusercontent.com/69112012/140248420-45e3eddc-91e5-4dca-be98-8434b16f07aa.gif)
 
 ## 🛠️ Tecnologias 
 
