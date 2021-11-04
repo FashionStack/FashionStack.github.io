@@ -39,6 +39,10 @@ Nossa APi conta com um desenvolvimento paraleo onde se encontra em um  container
 
 
 
+## Aplicação na integra 📹
+ 
+ - [GreenStock](https://youtu.be/n1SlEPPQsws)
+
 ## _Documentação do Swagger_ 
 ![swagger](https://user-images.githubusercontent.com/69112012/140248420-45e3eddc-91e5-4dca-be98-8434b16f07aa.gif)
 
