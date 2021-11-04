@@ -18,7 +18,7 @@
 
 ## _Desenvolvimento Docker_
 
-Nossa APi conta com um desenvolvimento paraleo onde se encontra me container para facil manuseio da aplicação. 
+Nossa APi conta com um desenvolvimento paraleo onde se encontra em um  container docker para facil manuseio da aplicação. 
 
 [Desenvolvimento em da api em Docker](https://github.com/FashionStack/GreenAPI/tree/docker)
 
