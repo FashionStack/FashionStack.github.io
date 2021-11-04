@@ -29,10 +29,6 @@
 ![Produtos](https://user-images.githubusercontent.com/69112012/140243806-9355f6e9-755d-45a4-8b32-86e07ccdfe08.gif)
 
 
-## _Página de Produtos_
-
-![Produtos](https://user-images.githubusercontent.com/69112012/140243860-a2402622-24c1-49b7-bae1-e775faaa170e.gif)
-
 
 ## _Alteração do estoque_
 
