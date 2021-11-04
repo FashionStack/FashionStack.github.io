@@ -23,19 +23,22 @@
 
 
  _Pagina Dasboard_
- 
-<img src="" align="center" width="800" > 
+ ![dashboard](https://user-images.githubusercontent.com/69112012/140243830-39fa6125-5a7f-496f-983c-928b0ccb7466.gif)
 
 _Pagina Adicionar Produto_
-<img src="" align="center" width="800"> 
 
-_Alteracção do estoque_
-
-<img src="" align="center" width="800"> 
+src![Produtos](https://user-images.githubusercontent.com/69112012/140243806-9355f6e9-755d-45a4-8b32-86e07ccdfe08.gif)
 
 _Pagina de produtos_
 
-<img src="" align="center" width="800"> 
+
+![Produtos](https://user-images.githubusercontent.com/69112012/140243860-a2402622-24c1-49b7-bae1-e775faaa170e.gif)
+
+
+_Alteracção do estoque_
+
+![add,remove](https://user-images.githubusercontent.com/69112012/140243794-c458da1d-674d-4703-9fa0-83b0a2a84cb2.gif)
+
 
 
 Documentação do Swagger 
