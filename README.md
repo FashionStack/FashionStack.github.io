@@ -19,26 +19,27 @@
 
 
 
- _Pagina Dasboard_
+ ## _Pagina Dasboard_
+ 
  ![dashboard](https://user-images.githubusercontent.com/69112012/140243830-39fa6125-5a7f-496f-983c-928b0ccb7466.gif)
 
-_Pagina Adicionar Produto_
+## _Pagina Adicionar Produto_
 
 ![Produtos](https://user-images.githubusercontent.com/69112012/140243806-9355f6e9-755d-45a4-8b32-86e07ccdfe08.gif)
 
-_Pagina de produtos_
-
+## _Pagina de produtos_
 
 ![Produtos](https://user-images.githubusercontent.com/69112012/140243860-a2402622-24c1-49b7-bae1-e775faaa170e.gif)
 
 
-_Alteracção do estoque_
+## _Alteracção do estoque_
 
 ![add,remove](https://user-images.githubusercontent.com/69112012/140243794-c458da1d-674d-4703-9fa0-83b0a2a84cb2.gif)
 
 
 
-Documentação do Swagger 
+## _Documentação do Swagger_ 
+![swagger](https://user-images.githubusercontent.com/69112012/140246391-82ede0a4-9f1b-469b-b78c-3454c3139431.gif)
 
 ## 🛠️ Construído 
 
