@@ -1,5 +1,7 @@
+## _+Tecnologia +Sustentabilidade +GreenStock_
 
-### Buscando criar ferramentas para otimizar o gerenciamento de estoque da sua empresa e entregando como valor a sustentabilidade, nasceu a GreenStock.
+
+#### Buscando criar ferramentas para otimizar o gerenciamento de estoque da sua empresa e entregando como valor a sustentabilidade, nasceu a GreenStock.
 
 
 <p> 
