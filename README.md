@@ -60,8 +60,8 @@ Nossa APi conta com um desenvolvimento paraleo onde se encontra em um  container
 - [Jira](https://confluence.atlassian.com/jira/jira-documentation-1556.html)
 
 ## 🖋️ Design UI - Prototipação
-
-[Link](https://www.figma.com/file/OpxHd2XGnacOnmk2zTHB1A/Untitled-(Copy)-(Copy)?node-id=0%3A1) 
+um puoco dos nossos desenhos desenvolidos para telas 
+[Figma](https://www.figma.com/file/OpxHd2XGnacOnmk2zTHB1A/Untitled-(Copy)-(Copy)?node-id=0%3A1) 
  
  **Desenvolvedores** 
 
@@ -71,6 +71,19 @@ Nossa APi conta com um desenvolvimento paraleo onde se encontra em um  container
 -    [Larissa Sampaio](https://github.com/LarissaSampaio)
 -    [Luis Fernando ](https://github.com/Luinando7)
   
+
+## Melhorias 🚧
+
+Estamos em um processo crescente de mudanças e evolução para entrar o melhor ao nosso cliente, pensando em memlhorar a experiencia , estamos 
+desenvolvendo melhorias 
+
+- Controle de acesso / Autenticações
+- Divisão de estoque por categoria
+- Categorizar itens por tamanho
+- Criação de campos de pesquisa
+- telas dinamicas 
+- aplicação inteira em container 
+- Uploader de imagem
 
 
 ## 📄 Licença
