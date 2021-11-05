@@ -74,7 +74,7 @@ um puoco dos nossos desenhos desenvolidos para telas
 
 ## Melhorias 🚧
 
-Estamos em um processo crescente de mudanças e evolução para entrar o melhor ao nosso cliente, pensando em memlhorar a experiencia , estamos 
+Estamos em um processo crescente de mudanças e evolução para entregar o  melhor ao nosso cliente, pensando em evoluir essa  experiencia , estamos 
 desenvolvendo melhorias 
 
 - Controle de acesso / Autenticações
