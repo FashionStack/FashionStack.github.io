@@ -5,13 +5,13 @@
 
 
 <p> 
- O objetivo é fornecer uma ferramenta simples e prática para o controle diário do estoque via aplicativo web. Além do foco em sustentabilidade, a ferramenta é acessível para todo e qualquer público, seja no smartphone ou computador. A GreenStock acredita que é possível se desenvolver colocando o meio ambiente no centro da pauta. Ferramentas como essas precisam e devem ser projetadas para falar com todo e qualquer pessoa em nossa sociedade.
+ O objetivo é fornecer uma ferramenta simples e prática para o controle diário do estoque via aplicativo WEB. Além do foco em sustentabilidade, a ferramenta é acessível para todo e qualquer público, seja no smartphone ou computador. A GreenStock acredita que é possível se desenvolver colocando o meio ambiente no centro da pauta.
 </p>
 
 ## 📦 Desenvolvimento
 
 <p>
- A arquitetura do sistema leva uma linguagem simples, visando ter funções pré-estabelecidas e o uso da mesma em várias frentes solicitadas por nosso usuário. O padrão adotado para construção da ferramenta foi baseado em arquitetura MVC (front-end) e API (back-end), o sistema é divido em três partes independentes: banco de dados, API e aplicação WEB.
+ O visual do sistema leva um conceito simples e minimalista. O padrão adotado para construção da ferramenta foi baseado em arquitetura MVC (front-end) e API (back-end), o sistema é divido em três partes independentes: banco de dados, API e aplicação WEB.
 </p>
 
 <p>
@@ -20,16 +20,17 @@
 
 ## _Desenvolvimento Docker_
 
-Nossa APi conta com um desenvolvimento paraleo onde se encontra em um  container docker para facil manuseio da aplicação. 
-
 [Desenvolvimento da api em Docker](https://github.com/FashionStack/GreenAPI/tree/docker)
+
+
 
  ## _Página Dashboard_
  
  ![dashboard](https://user-images.githubusercontent.com/69112012/140243830-39fa6125-5a7f-496f-983c-928b0ccb7466.gif)
 
 
-## _Página Adicionar Produto_
+
+## _Página de Produtos_
 
 ![Produtos](https://user-images.githubusercontent.com/69112012/140243806-9355f6e9-755d-45a4-8b32-86e07ccdfe08.gif)
 
@@ -41,7 +42,7 @@ Nossa APi conta com um desenvolvimento paraleo onde se encontra em um  container
 
 
 
-## Aplicação na integra 📹
+## Aplicação na íntegra 📹
  
  - [GreenStock](https://youtu.be/xh4UlbjOOSQ)
 
@@ -51,16 +52,15 @@ Nossa APi conta com um desenvolvimento paraleo onde se encontra em um  container
 ## 🛠️ Tecnologias 
 
 - [MySQL](https://dev.mysql.com/doc/relnotes/mysql/8.0/en/news-8-0-21.html)
-- [c#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
-- [.Net Framowork](https://docs.microsoft.com/pt-br/dotnet/)
+- [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
+- [.NET Framework](https://docs.microsoft.com/pt-br/dotnet/)
 - [Chart.js](https://www.chartjs.org/)
 - [Swagger](https://swagger.io/)
 - [Docker](https://docs.docker.com/)
 - [Figma](https://help.figma.com/hc/en-us)
 - [Jira](https://confluence.atlassian.com/jira/jira-documentation-1556.html)
 
-## 🖋️ Design UI - Prototipação
-um puoco dos nossos desenhos desenvolidos para telas 
+## 🖋️ Design UI - Prototipação 
 [Figma](https://www.figma.com/file/OpxHd2XGnacOnmk2zTHB1A/Untitled-(Copy)-(Copy)?node-id=0%3A1) 
  
  **Desenvolvedores** 
@@ -74,15 +74,14 @@ um puoco dos nossos desenhos desenvolidos para telas
 
 ## Melhorias 🚧
 
-Estamos em um processo crescente de mudanças e evolução para entregar o  melhor ao nosso cliente, pensando em evoluir essa  experiencia , estamos 
+Estamos em um processo crescente de mudanças e evolução para entregar o melhor ao nosso cliente. Pensando em evoluir essa experiência, estamos 
 desenvolvendo melhorias 
 
 - Controle de acesso / Autenticações
 - Divisão de estoque por categoria
 - Categorizar itens por tamanho
 - Criação de campos de pesquisa
-- telas dinamicas 
-- aplicação inteira em container 
+- Aplicação inteira em container 
 - Uploader de imagem
 
 
@@ -93,7 +92,7 @@ Este projeto está sob a licença (MIT) - veja o arquivo [LICENSE.md](https://gi
 ## 🎁 Agradecimentos 
 
 
-##### Agradecemos a C&A e a Gama Academy por nos convidar para este desafio e por nos apoiar e investir em todo processo. 
+##### Agradecemos a C&A e a Gama Academy por nos convidar para este desafio e investir na educação. 
 
 * Agradecemos ao Paulo Jeferson, nosso mentor durante toda a academia. Muito obrigado por todo conhecimento passado. <3
 * Convidamos vocês a fazer parte desse desenvolvimento. Abra uma issue, solicite mudanças e apresente ideias. Sua presença vai ser mais que bem-vinda. 
