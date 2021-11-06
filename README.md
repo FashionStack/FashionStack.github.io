@@ -22,7 +22,7 @@
 
 ## _Desenvolvimento Docker_
 
-[Desenvolvimento da api em Docker](https://github.com/FashionStack/GreenAPI/tree/docker)
+[Desenvolvimento da API em Docker](https://github.com/FashionStack/GreenAPI/tree/docker)
 
 
 
