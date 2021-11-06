@@ -1,6 +1,6 @@
-## _+Tecnologia
-## _+Sustentabilidade 
-## _+GreenStock
+<p align="center">
+  <img src="https://i.imgur.com/rKG8yfk.png">
+</p>
 
 
 #### Buscando criar ferramentas para otimizar o gerenciamento de estoque da sua empresa e entregando como valor a sustentabilidade, nasceu a GreenStock.
@@ -106,3 +106,6 @@ Este projeto está sob a licença (MIT) - veja o arquivo [LICENSE.md](https://gi
 Desenvolvido por FashionStack ❤️ 
 
 
+## +Tecnologia
+## +Sustentabilidade 
+## +GreenStock
