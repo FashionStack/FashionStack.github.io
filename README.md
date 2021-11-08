@@ -26,7 +26,7 @@
 
 
 
- ## _Página Dashboard_
+ <h2> Página Dashboard </h2>
  
  ![dashboard](https://user-images.githubusercontent.com/69112012/140243830-39fa6125-5a7f-496f-983c-928b0ccb7466.gif)
 
